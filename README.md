@@ -12,8 +12,9 @@ download and install eclipse for java ee (e.g., https://eclipse.org/downloads/pa
     * (if not recognized by Eclipse as Maven project: right click on twotter project > Configure > Convert to Maven project)
     * Right click on the twotter project > Run As > Maven build
 4.	Install and start a local Cassandra server
-5.a Run Client.java as java program
+5. Run Client.java as java program
     * Right click on twotter project > Run As Java Application
+   
 Optional: 5.b	Run Client.java with VM arguments
     * Run As > Run Configurations ... >
     * Add this line to (x) = Arguments: -Dlog4j.configuration=de/twotter/log4j.properties
