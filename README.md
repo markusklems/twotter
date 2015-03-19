@@ -17,8 +17,8 @@ download and install eclipse for java ee (e.g., https://eclipse.org/downloads/pa
    
 Optional: 5.b	Run Client.java with VM arguments
 
-    * Run As > Run Configurations ... >
-    * Add this line to (x) = Arguments: -Dlog4j.configuration=de/twotter/log4j.properties
+* Run As > Run Configurations ... >
+* Add this line to (x) = Arguments: -Dlog4j.configuration=de/twotter/log4j.properties
 
 Start the Client.java application and create a userline table using the commandline prompt (execute create-tables).
 
